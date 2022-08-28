@@ -1889,8 +1889,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 260, y: -120}
-  m_SizeDelta: {x: 400, y: 400}
+  m_AnchoredPosition: {x: 268.181, y: -120}
+  m_SizeDelta: {x: 383.639, y: 400}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1258213113
 MonoBehaviour:
@@ -2099,6 +2099,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   photodis: {fileID: 1601758658}
   display: {fileID: 1069165415}
+  Zooms: 60
 --- !u!224 &1289159618
 RectTransform:
   m_ObjectHideFlags: 0
